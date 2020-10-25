@@ -3,5 +3,5 @@
 	url = https://github.com/MantasG6/VehicleAppFrontend
 	
 [submodule "Backend"]
-	path = backend
+	path = Backend
 	url = https://github.com/MantasG6/VehicleAppBackend
