@@ -1,3 +1,7 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/MantasG6/VehicleAppFrontend
+	
+[submodule "Backend"]
+	path = backend
+	url = https://github.com/MantasG6/VehicleAppBackend
